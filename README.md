@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+My first repository!
+
+I make things looks like code:
+
+`does this look like code?`
